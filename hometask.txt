@@ -1,0 +1,8 @@
+1. Ветки demo и получившаяся master ничем не отличаются
+2. Комментарии:
+	init
+	head added
+	boots
+	README added
+	dots
+	fix readme
